@@ -1,0 +1,590 @@
+[
+    {
+        "subject_id": "90xxxxxx",
+        "group":"General Education Group",
+        "thName": "วิชาเลือกศึกษาทั่วไป",
+        "engName": "General Education",
+        "credits": "3 (3-0-6)"
+    },
+    {
+        "subject_id": "01076140",
+        "group":"Specialized Education Group",
+        "thName": "แคลคูลัส 1",
+        "engName": "CALCULUS 1",
+        "credits": "3 (3-0-6)"
+    },
+    {
+        "subject_id": "01076141",
+        "group":"Specialized Education Group",
+        "thName": "แคลคูลัส 2",
+        "engName": "CALCULUS 2",
+        "credits": "3 (3-0-6)"
+    },
+    {
+        "subject_id": "01076032",
+        "group":"Specialized Education Group",
+        "thName": "สมการอนุพันธ์และพีชคณิตเชิงเส้นพื้นฐาน",
+        "engName": "ELEMENTARY DIFFERENTIAL EQUATIONS AND LINEAR ALGEBRA",
+        "credits": "3 (3-0-6)"
+    },
+    {
+        "subject_id": "01076253",
+        "group":"Specialized Education Group",
+        "thName": "ความน่าจะเป็นและสถิติ",
+        "engName": "PROBABILITY AND STATISTICS",
+        "credits": "3 (3-0-6)"
+    },
+    {
+        "subject_id": "01076101",
+        "group":"Specialized Education Group",
+        "thName": "วิศวกรรมคอมพิวเตอรเบื้องตน",
+        "engName": "INTRODUCTION TO COMPUTER ENGINEERING",
+        "credits": "3 (3-0-6)"
+    },
+    {
+        "subject_id": "01076103",
+        "group":"Specialized Education Group",
+        "thName": "พื้นฐานการเขียนโปรแกรมคอมพิวเตอร",
+        "engName": "PROGRAMMING FUNDAMENTAL",
+        "credits": "2 (2-0-4)"
+    },
+    {
+        "subject_id": "01076104",
+        "group":"Specialized Education Group",
+        "thName": "โครงงานโปรแกรมคอมพิวเตอร",
+        "engName": "PROGRAMMING PROJECT",
+        "credits": "1 (0-3-2)"
+    },
+    {
+        "subject_id": "01076107",
+        "group":"Specialized Education Group",
+        "thName": "วงจรไฟฟาและอิเล็กทรอนิกส",
+        "engName": "CIRCUITS AND ELECTRONICS",
+        "credits": "3 (3-0-6)"
+    },
+    {
+        "subject_id": "01076108",
+        "group":"Specialized Education Group",
+        "thName": "ปฏิบัติการวงจรไฟฟาและอิเล็กทรอนิกส",
+        "engName": "CIRCUITS AND ELECTRONICS IN PRACTICE",
+        "credits": "1 (0-3-2)"
+    },
+    {
+        "subject_id": "01076011",
+        "group":"Specialized Education Group",
+        "thName": "ระบบปฏิบัติการ ",
+        "engName": "OPERATING SYSTEMS",
+        "credits": "3 (3-0-6)"
+    },
+    {
+        "subject_id": "01076012",
+        "group":"Specialized Education Group",
+        "thName": "โครงสรางแบบดิสครีต",
+        "engName": "DISCRETE STRUCTURE",
+        "credits": "3 (3-0-6)"
+    },
+    {
+        "subject_id": "01006004",
+        "group":"Specialized Education Group",
+        "thName": "การฝกงานอุตสาหกรรม",
+        "engName": "INDUSTRIAL TRAINING",
+        "credits": "0 (0-45-0)"
+    },
+    {
+        "subject_id": "01076016",
+        "group":"Specialized Education Group",
+        "thName": "การเตรียมโครงงานวิศวกรรมคอมพิวเตอร",
+        "engName": "COMPUTER ENGINEERING PROJECT PREPARATION",
+        "credits": "2 (1-3-2)"
+    },
+    {
+        "subject_id":"01076263",
+        "group": "Required Courses",
+        "thName":"ระบบฐานขอมูล",
+        "engName":"DATABASE SYSTEMS",
+        "credits":"3 (3-0-6)"
+    },
+    {
+        "subject_id": "01076105",
+        "group": "Required Courses",
+        "thName": "การเขียนโปรแกรมเชิงวัตถุ",
+        "engName": "OBJECT ORIENTED PROGRAMMING",
+        "credits": "2 (2-0-4)"
+    },
+    {
+        "subject_id": "01076106",
+        "group": "Required Courses",
+        "thName": "โครงงานโปรแกรมเชิงวัตถุ",
+        "engName": "OBJECT ORIENTED PROGRAMMING PROJECT",
+        "credits": "1 (0-3-2)"
+    },
+    {
+        "subject_id": "01076109",
+        "group": "Required Courses",
+        "thName": "โครงสร้างข้อมูลเชิงวัตถุ",
+        "engName": "OBJECT ORIENTED DATA STRUCTURES",
+        "credits": "3 (3-0-6)"
+    },
+    {
+        "subject_id": "01076110",
+        "group": "Required Courses",
+        "thName": "โครงงานโครงสร้างข้อมูลเชิงวัตถุ",
+        "engName": "OBJECT ORIENTED DATA STRUCTURES PROJECT",
+        "credits": "1 (0-3-2)"
+    },
+    {
+        "subject_id": "01076034",
+        "group": "Required Courses",
+        "thName": "หลักการของกระบวนการพัฒนาซอฟต์แวร์",
+        "engName": "PRINCIPLES OF SOFTWARE DEVELOPMENT PROCESS",
+        "credits": "3 (3-0-6)"
+    },
+    {
+        "subject_id": "01076119",
+        "group": "Required Courses",
+        "thName": "การพัฒนาโปรแกรมบนเว็บ",
+        "engName": "WEB APPLICATION DEVELOPMENT",
+        "credits": "3 (3-0-6)"
+    },
+    {
+        "subject_id": "01076120",
+        "group": "Required Courses",
+        "thName": "โครงงานพัฒนาโปรแกรมบนเว็บ",
+        "engName": "WEB APPLICATION DEVELOPMENT PROJECT",
+        "credits": "1 (0-3-2)"
+    },
+    {
+        "subject_id": "01076121",
+        "group": "Required Courses",
+        "thName": "ทฤษฎีการคำนวณ",
+        "engName": "THEORY OF COMPUTATION",
+        "credits": "3 (3-0-6)"
+    },
+    {
+        "subject_id": "01076116",
+        "group": "Required Courses",
+        "thName": "เครือข่ายคอมพิวเตอร์",
+        "engName": "COMPUTER NETWORKS",
+        "credits": "3 (3-0-6)"
+    },
+    {
+        "subject_id": "01076117",
+        "group": "Required Courses",
+        "thName": "ปฏิบัติการเครือข่ายคอมพิวเตอร์",
+        "engName": "COMPUTER NETWORKS IN PRACTICE",
+        "credits": "1 (0-3-2)"
+    },
+    {
+        "subject_id": "01076040",
+        "group": "Required Courses",
+        "thName": "มาตรฐานและเทคโนโลยีเครือข่าย",
+        "engName": "INTERNETWORKING STANDARDS AND TECHNOLOGIES",
+        "credits": "3 (3-0-6)"
+    },
+    {
+        "subject_id": "01076041",
+        "group": "Required Courses",
+        "thName": "ปฏิบัติการมาตรฐานและเทคโนโลยีเครือข่าย",
+        "engName": "INTERNETWORKING STANDARDS AND TECHNOLOGIES IN PRACTICE",
+        "credits": "1 (0-3-2)"
+    },
+    {
+        "subject_id": "01076118",
+        "group": "Required Courses",
+        "thName": "การดูแลแพลทฟอร์มระบบ",
+        "engName": "SYSTEM PLATFORM ADMINISTRATION",
+        "credits": "3 (3-0-6)"
+    },
+    {
+        "subject_id": "01076112",
+        "group": "Required Courses",
+        "thName": "พื้นฐานระบบดิจิตอล",
+        "engName": "DIGITAL SYSTEM FUNDAMENTALS",
+        "credits": "3 (3-0-6)"
+    },
+    {
+        "subject_id": "01076113",
+        "group": "Required Courses",
+        "thName": "ปฏิบัติการพื้นฐานระบบดิจิตอล",
+        "engName": "DIGITAL SYSTEM FUNDAMENTALS IN PRACTICE",
+        "credits": "1 (0-3-2)"
+    },
+    {
+        "subject_id": "01076114",
+        "group": "Required Courses",
+        "thName": "องค์ประกอบและสถาปัตยกรรมคอมพิวเตอร์",
+        "engName": "COMPUTER ORGANIZATION AND ARCHITECTURE",
+        "credits": "3 (3-0-6)"
+    },
+    {
+        "subject_id": "01076115",
+        "group": "Required Courses",
+        "thName": "ปฏิบัติการองค์ประกอบคอมพิวเตอร์",
+        "engName": "COMPUTER ORGANIZATION IN PRACTICE",
+        "credits": "1 (0-3-2)"
+    },
+    {
+        "subject_id": "01076050",
+        "group": "Required Courses",
+        "thName": "การประยุกต์และพัฒนาไมโครคอนโทรลเลอร์",
+        "engName": "MICROCONTROLLER APPLICATION AND DEVELOPMENT",
+        "credits": "3 (3-0-6)"
+    },
+    {
+        "subject_id": "01076051",
+        "group": "Required Courses",
+        "thName": "โครงงานไมโครคอนโทรลเลอร์",
+        "engName": "MICROCONTROLLER PROJECT",
+        "credits": "1 (0-3-2)"
+    },
+    {
+        "subject_id": "01076052",
+        "group": "Required Elective Courses",
+        "thName": "ระบบสมองกลฝงตัวแบบเรียลไทม",
+        "engName": "REAL-TIME EMBEDDED SYSTEMS",
+        "credits": "3 (3-0-6)"
+    },
+    {
+        "subject_id": "01076053",
+        "group": "Required Elective Courses",
+        "thName": "อินเตอรเน็ตในทุกสิ่งและระบบอัจฉริยะ",
+        "engName": "INTERNET OF THINGS AND SMART SYSTEMS",
+        "credits": "3 (3-0-6)"
+    },
+    {
+        "subject_id": "01076035",
+        "group":"Required Elective Courses",
+        "thName": "กระบวนการพัฒนาซอฟตแวรเชิงปฏิบัติ",
+        "engName": "SOFTWARE DEVELOPMENT PROCESS IN PRACTICE",
+        "credits": "3 (3-0-6)"
+    },
+    {
+        "subject_id": "01076036",
+        "group":"Required Elective Courses",
+        "thName": "การออกแบบประสบการณและสวนติดตอผูใช",
+        "engName": "USER EXPERIENCE AND USER INTERFACE DESIGN",
+        "credits": "2 (2-0-4)"
+    },
+    {
+        "subject_id": "01076037",
+        "group":"Required Elective Courses",
+        "thName": "โครงงานออกแบบประสบการณและสวนติดตอผูใช",
+        "engName": "USER EXPERIENCE AND USER INTERFACE PROJECT",
+        "credits": "1 (0-3-2)"
+    },
+    {
+        "subject_id": "01076042",
+        "group":"Required Elective Courses",
+        "thName": "ความมั่นคงขอมูลและคอมพิวเตอร",
+        "engName": "INFORMATION AND COMPUTER SECURITY",
+        "credits": "3 (3-0-6)"
+    },
+    {
+        "subject_id": "01076043",
+        "group":"Required Elective Courses",
+        "thName": "สถาปตยกรรมคลาวดเบื้องตน",
+        "engName": "INTRODUCTION TO CLOUD ARCHITECTURE",
+        "credits": "2 (2-0-4)"
+    },
+    {
+        "subject_id": "01076044",
+        "group":"Required Elective Courses",
+        "thName": "ปฏิบัติการสถาปตยกรรมคลาวดเบื้องตน",
+        "engName": "INTRODUCTION TO CLOUD ARCHITECTURE IN PRACTICE",
+        "credits": "1 (0-3-2)"
+    },
+    {
+        "subject_id":"01076311",
+        "group":"Elective Study Courses",
+        "thName":"โครงงาน 1",
+        "engName":"PROJECT 1",
+        "credits":"3 (0-9-0)"
+    },
+    {
+        "subject_id":"01076312",
+        "group":"Elective Study Courses",
+        "thName":"โครงงาน 2",
+        "engName":"PROJECT 2",
+        "credits":"3 (0-9-0)"
+    },
+    {
+        "subject_id":"01006029",
+        "group":"Elective Study Courses",
+        "thName":"สหกิจศึกษา",
+        "engName":"CO-OPERATIVE EDUCATION",
+        "credits":"6 (0-45-0)"
+    },
+    {
+        "subject_id":"01006005",
+        "group":"Elective Study Courses",
+        "thName":"การปฏิบัติการฝกงานตางประเทศ",
+        "engName":"OVERSEA TRAINING",
+        "credits":"6 (0-45-0)"
+    },
+    {
+        "subject_id": "01076411",
+        "group": "Specialized Elective Courses",
+        "thName": "การพัฒนาหุนยนตขนาดเล็ก",
+        "engName": "MICRO ROBOT DEVELOPMENT",
+        "credits": "3 (1-6-5)"
+    },
+    {
+        "subject_id": "01076418",
+        "group": "Specialized Elective Courses",
+        "thName": "การประมวลผลสมรรถนะสูง",
+        "engName": "HIGH PERFORMANCE COMPUTING",
+        "credits": "3 (3-0-6)"
+    },
+    {
+        "subject_id": "01076420",
+        "group": "Specialized Elective Courses",
+        "thName": "การออกแบบดิจิตอลขั้นสูงโดยใชเฮชดีแอล",
+        "engName": "ADVANCED DIGITAL DESIGN USING HDL",
+        "credits": "3 (3-0-6)"
+    },
+    {
+        "subject_id": "01076421",
+        "group": "Specialized Elective Courses",
+        "thName": "การออกแบบระบบสมองกลฝงตัว",
+        "engName": "EMBEDDED SYSTEM DESIGN",
+        "credits": "3 (3-0-6)"
+    },
+    {
+        "subject_id": "01076414",
+        "group": "Specialized Elective Courses",
+        "thName": "รถยนตขับเคลื่อนอัตโนมัติเบื้องตน",
+        "engName": "INTRODUCTION TO AUTONOMOUS VEHICLE",
+        "credits": "3 (3-0-6)"
+    },
+    {
+        "subject_id": "01076513",
+        "group": "Specialized Elective Courses",
+        "thName": "การสรางคอมไพเลอร",
+        "engName": "COMPILER CONSTRUCTION",
+        "credits": "3 (3-0-6)"
+    },
+    {
+        "subject_id": "01076564",
+        "group": "Specialized Elective Courses",
+        "thName": "การออกแบบและวิเคราะหอัลกอริทึม",
+        "engName": "DESIGN AND ANALYSIS OF ALGORITHMS",
+        "credits": "3 (3-0-6)"
+    },
+    {
+        "subject_id": "01076568",
+        "group": "Specialized Elective Courses",
+        "thName": "การปฏิสัมพันธระหวางมนุษยและคอมพิวเตอร",
+        "engName": "HUMAN COMPUTER INTERACTION",
+        "credits": "3 (3-0-6)"
+    },
+    {
+        "subject_id": "01076589",
+        "group": "Specialized Elective Courses",
+        "thName": "ระบบฐานขอมูลขั้นสูง",
+        "engName": "ADVANCED DATABASE SYSTEMS",
+        "credits": "3 (3-0-6)"
+    },
+    {
+        "subject_id": "01076599",
+        "group": "Specialized Elective Courses",
+        "thName": "การทดสอบและการประกันคุณภาพซอฟตแวร์",
+        "engName": "SOFTWARE TESTING AND QUALITY ASSURANCE",
+        "credits": "3 (3-0-6)"
+    },
+    {
+        "subject_id": "01076596",
+        "group": "Specialized Elective Courses",
+        "thName": "วิศวกรรมความตองการของระบบ",
+        "engName": "SYSTEM REQUIREMENTS ENGINEERING",
+        "credits": "3 (3-0-6)"
+    },
+    {
+        "subject_id": "01076558",
+        "group": "Specialized Elective Courses",
+        "thName": "ไมโครเซอรวิสและการออกแบบเรสเอพีไอ",
+        "engName": "MICROSERVICES AND REST API DESIGN",
+        "credits": "3 (3-0-6)"
+    },
+    {
+        "subject_id": "01076559",
+        "group": "Specialized Elective Courses",
+        "thName": "สถาปตยกรรมและการออกแบบซอฟตแวร์",
+        "engName": "SOFTWARE ARCHITECTURE AND DESIGN",
+        "credits": "3 (3-0-6)"
+    },
+    {
+        "subject_id": "01076560",
+        "group": "Specialized Elective Courses",
+        "thName": "การพัฒนาโปรแกรมบนโทรศัพทมือถือ",
+        "engName": "SMART MOBILE APPLICATION DEVELOPMENT",
+        "credits": "3 (3-0-6)"
+    },
+    {
+        "subject_id": "01076574",
+        "group": "Specialized Elective Courses",
+        "thName": "ดาตาแวรเฮาส",
+        "engName": "DATA WAREHOUSE",
+        "credits": "3 (3-0-6)"
+    },
+    {
+        "subject_id": "01076585",
+        "group": "Specialized Elective Courses",
+        "thName": "เหมืองขอมูล",
+        "engName": "DATA MINING",
+        "credits": "3 (3-0-6)"
+    },
+    {
+        "subject_id": "01076634",
+        "group": "Specialized Elective Courses",
+        "thName": "สถาปตยกรรมขอมูลขนาดใหญ",
+        "engName": "BIG DATA ARCHITECTURE",
+        "credits": "3 (3-0-6)"
+    },
+    {
+        "subject_id": "01076598",
+        "group": "Specialized Elective Courses",
+        "thName": "การวิเคราะหขอมูลเบื้องตน",
+        "engName": "INTRODUCTION TO DATA ANALYTICS",
+        "credits": "3 (3-0-6)"
+    },
+    {
+        "subject_id": "01076567",
+        "group": "Specialized Elective Courses",
+        "thName": "การประมวลผลภาพ",
+        "engName": "IMAGE PROCESSING",
+        "credits": "3 (3-0-6)"
+    },
+    {
+        "subject_id": "01076566",
+        "group": "Specialized Elective Courses",
+        "thName": "ระบบสื่อผสม",
+        "engName": "MULTIMEDIA SYSTEMS",
+        "credits": "3 (3-0-6)"
+    },
+    {
+        "subject_id": "01076583",
+        "group": "Specialized Elective Courses",
+        "thName": "คอมพิวเตอรกราฟกส",
+        "engName": "COMPUTER GRAPHICS",
+        "credits": "3 (3-0-6)"
+    },
+    {
+        "subject_id": "01076597",
+        "group": "Specialized Elective Courses",
+        "thName": "โลกเสมือนผสานโลกจริง",
+        "engName": "AUGMENTED REALITY",
+        "credits": "3 (3-0-6)"
+    },
+    {
+        "subject_id": "01076532",
+        "group": "Specialized Elective Courses",
+        "thName": "การเรียนรูของเครื่อง",
+        "engName": "MACHINE LEARNING",
+        "credits": "3 (3-0-6)"
+    },
+    {
+        "subject_id": "01076582",
+        "group": "Specialized Elective Courses",
+        "thName": "ปญญาประดิษฐ",
+        "engName": "ARTIFICIAL INTELLIGENCE",
+        "credits": "3 (3-0-6)"
+    },
+    {
+        "subject_id": "01076595",
+        "group": "Specialized Elective Courses",
+        "thName": "การสืบคนสารสนเทศและการคนหาเว็บ",
+        "engName": "INFORMATION STORAGE AND WEB SEARCH",
+        "credits": "3 (3-0-6)"
+    },
+    {
+        "subject_id": "01076533",
+        "group": "Specialized Elective Courses",
+        "thName": "การเรียนรูเชิงลึก",
+        "engName": "DEEP LEARNING",
+        "credits": "3 (3-0-6)"
+    },
+    {
+        "subject_id": "01076627",
+        "group": "Specialized Elective Courses",
+        "thName": "สถาปตยกรรมและการบริหารความมั่นคงไอซีที",
+        "engName": "ICT SECURITY ARCHITECTURE AND MANAGEMENT",
+        "credits": "3 (3-0-6)"
+    },
+    {
+        "subject_id": "01076628",
+        "group": "Specialized Elective Courses",
+        "thName": "การประเมินความมั่นคงเทคโนโลยีสารสนเทศ",
+        "engName": "INFORMATION TECHNOLOGY SECURITY ASSESSMENT",
+        "credits": "3 (3-0-6)"
+    },
+    {
+        "subject_id": "01076629",
+        "group": "Specialized Elective Courses",
+        "thName": "การทดสอบเจาะระบบและการแฮกแบบมีจริยธรรมเบื้องตน",
+        "engName": "BASIC PENETRATION TESTING AND ETHICAL HACKING",
+        "credits": "3 (3-0-6)"
+    },
+    {
+        "subject_id": "01076636",
+        "group": "Specialized Elective Courses",
+        "thName": "การรุกรานความมั่นคงปลอดภัยทางไซเบอร",
+        "engName": "OFFENSIVE CYBER SECURITY",
+        "credits": "3 (3-0-6)"
+    },
+    {
+        "subject_id": "01076631",
+        "group": "Specialized Elective Courses",
+        "thName": "ซอฟตแวรกำหนดเครือขาย",
+        "engName": "SOFTWARE DEFINED NETWORKING",
+        "credits": "3 (3-0-6)"
+    },
+    {
+        "subject_id": "01076632",
+        "group": "Specialized Elective Courses",
+        "thName": "เทคโนโลยีเครือขายไรสาย",
+        "engName": "WIRELESS NETWORK TECHNOLOGY",
+        "credits": "3 (3-0-6)"
+    },
+    {
+        "subject_id": "01076635",
+        "group": "Specialized Elective Courses",
+        "thName": "เครือขายสวิตซไอพี",
+        "engName": "IP SWITCHED NETWORKS",
+        "credits": "3 (3-0-6)"
+    },
+    {
+        "subject_id": "01076584",
+        "group": "Specialized Elective Courses",
+        "thName": "การจำลองระบบดวยคอมพิวเตอร",
+        "engName": "COMPUTER SIMULATION",
+        "credits": "3 (3-0-6)"
+    },
+    {
+        "subject_id": "01076592",
+        "group": "Specialized Elective Courses",
+        "thName": "ผูประกอบการกับวิศวกร",
+        "engName": "ENTREPRENEURSHIP AND THE ENGINEER",
+        "credits": "3 (3-0-6)"
+    },
+    {
+        "subject_id": "01076422",
+        "group": "Specialized Elective Courses",
+        "thName": "การประกอบการและการจัดการดานเทคโนโลยีสารสนเทศ",
+        "engName": "IT ENTREPRENEURSHIP AND MANAGEMENT",
+        "credits": "3 (3-0-6)"
+    },
+    {
+        "subject_id": "01076423",
+        "group": "Specialized Elective Courses",
+        "thName": "การวางแผนเชิงกลยุทธโดยใชบอรดและการดเกม",
+        "engName": "STRATEGIC PLANNING USING BOARD AND CARD GAME",
+        "credits": "3 (3-0-6)"
+    },
+    {
+        "subject_id": "01076577",
+        "group": "Specialized Elective Courses",
+        "thName": "การจัดการโครงการเทคโนโลยีสารสนเทศ",
+        "engName": "IT PROJECT MANAGEMENT",
+        "credits": "3 (3-0-6)"
+    }
+]

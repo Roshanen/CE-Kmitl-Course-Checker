@@ -1,0 +1,107 @@
+[
+    {
+        "title": "General Education Group",
+        "creditRequires": 30,
+        "thName": "หมวดวิชาศึกษาทั่วไป",
+        "upperUnit": "",
+        "smallestUnit": false
+    },
+    {
+        "title": "Foundation Courses",
+        "creditRequires": 6,
+        "thName": "วิชาพื้นฐาน",
+        "upperUnit": "General Education Group",
+        "smallestUnit": true
+    },
+    {
+        "title": "Language and Communication Courses",
+        "creditRequires": 9,
+        "thName": "วิชาด้านภาษาและการสื่อสาร",
+        "upperUnit": "General Education Group",
+        "smallestUnit": true
+    },
+    {
+        "title": "Faculty-Specific Courses",
+        "creditRequires": 9,
+        "thName": "วิชาตามเกณฑ์ของคณะ",
+        "upperUnit": "General Education Group",
+        "smallestUnit": true
+    },
+    {
+        "title": "Elective Courses",
+        "creditRequires": 6,
+        "thName": "วิชาเลือก",
+        "upperUnit": "General Education Group",
+        "smallestUnit": true
+    },
+    {
+        "title": "Specialized Education Group",
+        "creditRequires": 100,
+        "thName": "หมวดวิชาเฉพาะ",
+        "upperUnit": "",
+        "smallestUnit": false
+    },
+    {
+        "title": "Core Courses",
+        "creditRequires": 30,
+        "thName": "วิชาแกน",
+        "upperUnit": "Specialized Education Group",
+        "smallestUnit": false
+    },
+    {
+        "title": "Core Mathematics Courses",
+        "creditRequires": 12,
+        "thName": "วิชาแกนทางคณิตศาสตร์",
+        "upperUnit": "",
+        "smallestUnit": true
+    },
+    {
+        "title": "Core Engineering Courses",
+        "creditRequires": 18,
+        "thName": "วิชาแกนทางวิศวกรรม",
+        "upperUnit": "",
+        "smallestUnit": true
+    },
+    {
+        "title": "Specialized Courses",
+        "creditRequires": 52,
+        "thName": "วิชาเฉพาะด้าน",
+        "upperUnit": "Specialized Education Group",
+        "smallestUnit": false
+    },
+    {
+        "title": "Required Courses",
+        "creditRequires": 43,
+        "thName": "วิชาบังคับ",
+        "upperUnit": "",
+        "smallestUnit": false
+    },
+    {
+        "title": "Required Elective Courses",
+        "creditRequires": 9,
+        "thName": "วิชาบังคับเลือก",
+        "upperUnit": "",
+        "smallestUnit": false
+    },
+    {
+        "title": "Elective Study Courses",
+        "creditRequires": 6,
+        "thName": "วิชาการศึกษาทางเลือก",
+        "upperUnit": "Specialized Education Group",
+        "smallestUnit": false
+    },
+    { 
+        "title": "Specialized Elective Courses",
+        "creditRequires": 12,
+        "thName": "วิชาเลือกเฉพาะสาขา",
+        "upperUnit": "Specialized Education Group",
+        "smallestUnit": false
+    },
+    {
+        "title": "Free Electives",
+        "creditRequires": 6,
+        "thName": "วิชาเลือกเสรี",
+        "upperUnit": "",
+        "smallestUnit": true
+    }
+]
